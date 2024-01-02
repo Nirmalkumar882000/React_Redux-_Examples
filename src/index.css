@@ -1,0 +1,23 @@
+.container{
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.images{
+    background-color: #fff;
+    width: 250px;
+    height: 250px;
+    border: 2px solid red;
+    box-shadow: 0px 0px 15px red;
+}   
+
+.title{
+    background-color: orange;
+    margin-left: 30px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 900;
+    
+}
